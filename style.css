@@ -175,3 +175,10 @@
     margin-top: 40px;
   }
   
+
+  .button-center {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
